@@ -3,23 +3,19 @@
 
 ## Краткое описание
 
-12.02.2021-12.02.2021 было проведено функциональное тестирование приложения Credit Card Number Validator.
+22.02.2021-22.02.2021 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
-На тестирование затрачено: 1 час
+На тестирование затрачено: 2 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/4#issue-807532961
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/3#issue-807531672
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/5#issue-807533846
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/6#issue-807535061
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/7#issue-807535851
-* https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/8#issue-807536218
+* [Номера карт платежной системы "AmericanExpress" не валидные](https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/6#issue-807535061)
+* [Номера карт платежной системы "AmericanExpress" не валидные](https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/6#issue-807535061)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Тест-кейс
+* Баг-репорт
 
 В качестве тестовых данных использовались следующие номера карт:
 * 5485996415141185 Ок
