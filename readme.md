@@ -8,7 +8,7 @@
 На тестирование затрачено: 2 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Номера карт платежной системы "AmericanExpress" не валидные](https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/6#issue-807535061)
+* [Номера карт платежной системы "Мир" не валидные](https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/3#issue-807531672)
 * [Номера карт платежной системы "AmericanExpress" не валидные](https://github.com/AnastasiaMR/Credit-Card-Number-Validator/issues/6#issue-807535061)
 
 
